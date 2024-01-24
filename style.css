@@ -1,0 +1,21 @@
+#top-bar{
+   
+}
+
+@media only screen and (max-width: 583px) {
+    header, main {
+       
+    }
+}
+
+@media only screen and (min-width: 583px) and (max-width: 900px) {
+    header, main {
+       
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    header, main {
+
+    }
+}

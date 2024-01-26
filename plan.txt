@@ -1,0 +1,9 @@
+1.	(Planning): Planning my room in a 3D planning app by adding all the items that will be in my room.
+2.	(Disassembly): Remove old items such as carpets, furniture, and the old door.
+3.	(Wall preparation): Strip off paint, fill all holes, and smooth out scratches to prepare them for painting.
+4.	(Painting): Choose a new color and apply it to the walls.
+5.	(Flooring): Replace the old wood panels with new ones.
+6.	(New furniture): Install new furniture, like a big desk with amazing backlighting and a large comfortable bed.
+7.	(Assembling): Assembling furniture and placing it in the room 
+8.	(Cleaning): After completing all renovations, clean the entire room.
+9.	(Decoration): Add elements like game figurines, plants, and a carpet to make the room cozy.
